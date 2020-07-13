@@ -1,0 +1,10 @@
+.color-box-container {
+  margin-top: 10px;
+}
+.color-box-container .color-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+  flex: 1;
+}
